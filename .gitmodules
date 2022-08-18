@@ -1,0 +1,12 @@
+[submodule "microservices-product-composite-service"]
+	path = microservices-product-composite-service
+	url = git@github.com:shinyay/microservices-product-composite-service.git
+[submodule "microservices-product-service"]
+	path = microservices-product-service
+	url = git@github.com:shinyay/microservices-product-service.git
+[submodule "microservices-recommendation-service"]
+	path = microservices-recommendation-service
+	url = git@github.com:shinyay/microservices-recommendation-service.git
+[submodule "microservices-review-service"]
+	path = microservices-review-service
+	url = git@github.com:shinyay/microservices-review-service.git
