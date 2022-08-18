@@ -10,8 +10,14 @@ Overview
 
 #### Clone
 
-```
+```shell
 git clone git@github.com:shinyay/microservices-demo-app.git --recursive
+```
+
+#### Update
+
+```shell
+git submodule update --init
 ```
 
 ## Features
