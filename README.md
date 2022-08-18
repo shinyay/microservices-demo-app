@@ -6,6 +6,14 @@ Overview
 
 ## Demo
 
+### Submodule
+
+#### Clone
+
+```
+git clone git@github.com:shinyay/microservices-demo-app.git --recursive
+```
+
 ## Features
 
 - feature:1
